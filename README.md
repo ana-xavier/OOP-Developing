@@ -6,12 +6,12 @@
 
   <div>
     </ br>
-    <li>🐖 Piggy Bank - 220820</li>
+    <ol>🐖 Piggy Bank - 220820</li>
  </div>
  
  
  <div>
     </ br>
-    <li>🚂 Train System - 220904</li>
-    Contributions: <href="https://github.com/4Integra"> Kauana,<href="https://github.com/oCarlosE"> Carlos,<href="https://github.com/M4RS14L"> Maria Eduarda
+    <ol>🚂 Train System - 220904</li>
+      <ol>Contributions: <href="https://github.com/4Integra"> Kauana,<href="https://github.com/oCarlosE"> Carlos,<href="https://github.com/M4RS14L"> Maria Eduarda</li>
   </div>
