@@ -26,4 +26,9 @@
     </ br>
     <ol>⚠️ Exception Handling - 221016</li>
  </div>
+ 
+  <div>
+    </ br>
+    <ol>✍️ BASIC command - 221031</li>
+ </div>
   
